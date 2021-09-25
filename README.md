@@ -1,7 +1,5 @@
 
 
-# Bon plan
-
 ## TODO
 
 Mise en place du MVP, et étude
