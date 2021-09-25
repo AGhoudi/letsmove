@@ -1,6 +1,6 @@
 
 
-## TODO
+## TO
 
 Mise en place du MVP, et étude
 
