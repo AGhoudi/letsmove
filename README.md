@@ -1,4 +1,4 @@
-# Projet sur des activités 
+# Projet sur
 
 # Bon plan
 
